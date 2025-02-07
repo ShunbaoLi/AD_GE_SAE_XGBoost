@@ -47,11 +47,6 @@ pip install pandas numpy scikit-learn torch xgboost
 python main.py
 ```
 
-### Output
-
-- Preprocessed data will be saved as `preprocessed_gene_expression.csv`.
-- The console will display training progress, classification accuracy, and feature importance results.
-
 ## Contribution
 
 Feel free to fork this repository and submit pull requests if you wish to contribute or improve this project.

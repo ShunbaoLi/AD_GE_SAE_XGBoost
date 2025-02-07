@@ -1,6 +1,6 @@
 # Gene Expression Analysis Project
 
-This project is focused on the analysis of gene expression data, utilizing a combination of data preprocessing, dimensionality reduction, classification, and feature selection techniques. The project leverages Python and several key libraries such as `pandas`, `scikit-learn`, `torch`, and `xgboost`.
+This project is focused on the utilisation of gene expression data for early Alzheimer's diagnosis.
 
 ## Project Structure
 
